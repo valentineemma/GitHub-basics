@@ -1,1 +1,4 @@
-** I was made on the remote github server! **
+@valentineemma ➜ /workspaces/GitHub-basics (main) $ print("hello world")
+bash: syntax error near unexpected token `"hello world"'
+@valentineemma ➜ /workspaces/GitHub-basics (main) $ print('hello world')
+bash: syntax error near unexpected token `'hello world''
